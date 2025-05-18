@@ -1,0 +1,19 @@
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos de pruebas
+*.log
+
+# Archivos de entorno virtual 
+env/
+venv/
+
+# Configuración de VS Code (solo te sirve a ti)
+.vscode/
+
+# Archivos del sistema (Windows)
+Thumbs.db
+Desktop.ini
